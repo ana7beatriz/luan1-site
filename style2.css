@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+
+h2 {
+    font-size: 390%;
+    text-align: center;
+    border-color: red;
+    border-style: dashed;
+    border-width: 5px;
+    background-color: yellow;
+ }
+ h3 {
+    font-size: 250%;
+    color: red;
+ }
+
+.p1{
+    font-size:300%;
+    color: aliceblue;
+}
